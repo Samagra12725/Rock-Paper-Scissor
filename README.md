@@ -22,7 +22,7 @@ This is a **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**
 4. The result is displayed dynamically at the top.
 
 ## 📌 Installation & Usage
-1. Clone the repository:git clone https://github.com/yourusername/rock-paper-scissors.git
+1. Clone the repository:git clone https://github.com/Samagra12725/Rock-Paper-Scissor.git
 2. cd rock-paper-scissors
 
 ## 🌍 Live Demo
