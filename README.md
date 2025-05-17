@@ -25,7 +25,8 @@ This is a **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**
 1. Clone the repository:git clone https://github.com/Samagra12725/Rock-Paper-Scissor.git
 2. cd rock-paper-scissors
 
-## 🌍 Live Demo
+## 🌍 Live Demo 
+https://samagra12725.github.io/Rock-Paper-Scissor/
 
 ## Future Enhancements-
 - Add sound effects for moves 🔊
